@@ -1,0 +1,5 @@
+Three observable trends based on the data:
+
+1. Men make up most of the purchases
+2. When women do make purchases they usually make higher value transactions
+3. The 20-24 age range makes the most purchases but the 35-39 age range makes higher value transactions
